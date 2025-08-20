@@ -1,5 +1,10 @@
-# Carigenetics PLINK2 GUI
 
+
+
+
+<img width="2048" height="673" alt="CariGenetics-_-Official-Logo-_-In-Full-Color-1-2048x673" src="https://github.com/user-attachments/assets/db98eb80-1244-4066-ac43-82fe0b602032" />
+
+# Carigenetics PLINK2 GUI
 An open-source graphical user interface for [PLINK 2.0](https://www.cog-genomics.org/plink/2.0/).
 Built with [NiceGUI](https://nicegui.io/).
 
